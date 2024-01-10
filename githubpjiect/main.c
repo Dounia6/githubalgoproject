@@ -11,4 +11,4 @@ typedef struct Node {
 
 Node* head = NULL;
 Node* deletedNodes = NULL;
-//test
+//test..
